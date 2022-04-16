@@ -1,4 +1,4 @@
-<h1>Olá!</h1>
+<h1>👋🏿 Olá, eu sou o Marllon!</h1>
 
 
 
@@ -12,6 +12,7 @@
  
 </div>
   <div style="display: inline_block"><br>
+     <h2>💻 Front-end:</h2>
   <img align="center" alt="marllon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="marllon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="marllon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
