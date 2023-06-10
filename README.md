@@ -3,8 +3,7 @@
 
 
   🎓 Estou atualmente cursando o curso de Engenharia de Controle e Automação.<br>
-  🔥  Iniciando na programação web.<br>
-  💻 Front-End.
+  
 ##
 <div align="center">
   <a href="https://github.com/marllonbatista">
